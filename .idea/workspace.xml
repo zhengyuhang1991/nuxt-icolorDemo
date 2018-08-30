@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b6fa7dc-b8f5-4bbe-802d-b119dc025abe" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,11 +51,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
               <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="3" column="470" lean-forward="true" selection-start-line="3" selection-start-column="470" selection-end-line="3" selection-end-column="470" />
               <folding />
             </state>
           </provider>
@@ -113,16 +123,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/scripts/config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -171,6 +171,7 @@
         <option value="$PROJECT_DIR$/pages/index.vue" />
         <option value="$PROJECT_DIR$/pages/case/_code.vue" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
       </list>
     </option>
   </component>
@@ -209,29 +210,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="nuxt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nuxt" type="462c0819:PsiDirectoryNode" />
+              <item name="nuxt-icolorDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nuxt-icolorDemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="nuxt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nuxt" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nuxt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nuxt" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="stylus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nuxt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nuxt" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nuxt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nuxt" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="nuxt-icolorDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nuxt-icolorDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -283,12 +268,12 @@
       <workItem from="1535513390277" duration="3655000" />
       <workItem from="1535534100780" duration="888000" />
       <workItem from="1535590915678" duration="19204000" />
-      <workItem from="1535621084819" duration="15000" />
+      <workItem from="1535621084819" duration="231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23762000" />
+    <option name="totallyTimeSpent" value="23978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -636,6 +621,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="3" column="470" lean-forward="true" selection-start-line="3" selection-start-column="470" selection-end-line="3" selection-end-column="470" />
           <folding />
         </state>
       </provider>
